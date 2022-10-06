@@ -142,7 +142,7 @@ public class Main {
 		System.out.println("Cpf ou senha incorretos!");
 		menuPrevio();
 	}
-
+	
 	public static void efetuarCadastro() {
 		Cliente cliente = new Cliente();
 

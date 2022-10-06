@@ -3,7 +3,7 @@ import View.Main;
 
 public class ContaCorrente extends Conta {
 
-	public double limite, taxaOperacoes;
+	public double taxaOperacoes;
 	public int qtdOperacoes;
 
 	public ContaCorrente(double taxaOperacoes, int qtdOperacoes) {
